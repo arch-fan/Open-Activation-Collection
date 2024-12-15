@@ -56,6 +56,14 @@ Shorthand command:
 bash <(curl -sSL https://raw.githubusercontent.com/Nuzair46/BlockTheSpot-Mac/main/install.sh)
 ```
 
+## Nintendo 3DS & 2DS custom firmware
+
+Guide here: https://3ds.hacks.guide/
+
+## Nintendo DSi modding
+
+Guide here: https://dsi.cfw.guide/
+
 # Contribution
 
 Just add any tool you know, I'll be happy to merge it. 😊
